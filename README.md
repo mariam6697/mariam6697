@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi buddy 🦉
 
-<!--
-**mariam6697/mariam6697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mariam V. Maldonado, a 25 years old chilean Software Engineer. I'm a technology lover, cat lover and [Kim Lip](https://youtu.be/_qJEoSa3Ie0) biggest fan 🌙
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I'm currently working on getting my degree
+* 🌱 I want to learn Go so bad! Trying to find the time
+* 💻 I like to code with:
+    * Node.js (Express)
+    * Angular and Vue.js
+    * Flutter
+    * Python (Django and Flask)
+ 
