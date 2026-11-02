@@ -1,11 +1,21 @@
-### Hey buddy 🌙
+### mariam 🌙
 
-I'm Mariam V. Maldonado, a 25 years old chilean Software Engineer. I'm a technology lover, videogames enthusiast and Kim Lip biggest fan 🦉
+Software engineer in Santiago, Chile. Code, music, and video games.
 
-* 🔭 I currently work in software development for a national bank
-* 🌱 I'm trying to learn Go and improve in JS/TS in my free time
-* 💻 I usually code with:
-    * Node.js (Express) ⏩
-    * Angular and Vue.js 🎑
-    * Java ☕
- 
+[mariam.sh](https://mariam.sh) · [Discogs](https://www.discogs.com/user/mmmariam)
+
+<!-- metrics:start -->
+![GitHub activity and languages](github-metrics.svg)
+<!-- metrics:end -->
+
+<sub>Public repositories · excludes the Cobblemon port.</sub>
+
+#### on rotation 💿
+
+One daily pick from my record collection. Same pick all day, a fresh draw tomorrow.
+
+<!-- release:start -->
+<a href="https://www.discogs.com/release/38420610">Olivia Rodrigo — You Seem Pretty Sad For A Girl So In Love</a>
+
+<sub>Picked 2026-11-02 · America/Santiago</sub>
+<!-- release:end -->

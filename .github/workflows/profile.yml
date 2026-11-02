@@ -1,0 +1,66 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, codex/profile-metrics-music]
+    paths:
+      - README.md
+      - scripts/**
+      - tests/**
+      - .github/workflows/profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Check profile generation
+        run: python3 -m unittest discover -s tests
+      - name: Generate activity and language metrics
+        if: env.METRICS_TOKEN != ''
+        # Metrics derives its official image source from this step identifier.
+        id: lowlightermetrics
+        continue-on-error: true
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: mariam6697
+          template: classic
+          base: activity
+          repositories_affiliations: owner
+          repositories_forks: no
+          config_timezone: America/Santiago
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_skipped: mariam6697/cobblemon-26.3
+          plugin_languages_details: percentage
+          output_action: none
+          filename: github-metrics.svg
+      - name: Keep a successful metrics render
+        if: steps.lowlightermetrics.outcome == 'success'
+        run: sudo cp /metrics_renders/github-metrics.svg github-metrics.svg
+      - name: Refresh the daily record
+        run: python3 scripts/update_profile.py
+      - name: Commit generated changes
+        run: |
+          git add README.md
+          if [ -f daily-release.json ]; then git add daily-release.json; fi
+          if [ -f github-metrics.svg ]; then git add github-metrics.svg; fi
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore(profile): refresh metrics and daily record'
+          git push
