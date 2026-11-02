@@ -28,7 +28,8 @@ jobs:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - name: Generate activity and language metrics
         if: env.METRICS_TOKEN != ''
-        id: metrics
+        # Metrics derives its official image source from this step identifier.
+        id: lowlightermetrics
         continue-on-error: true
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
@@ -45,7 +46,7 @@ jobs:
           output_action: none
           filename: github-metrics.svg
       - name: Keep a successful metrics render
-        if: steps.metrics.outcome == 'success'
+        if: steps.lowlightermetrics.outcome == 'success'
         run: sudo cp /metrics_renders/github-metrics.svg github-metrics.svg
       - name: Refresh the daily record
         run: python3 scripts/update_profile.py
