@@ -5,6 +5,7 @@ Software engineer in Santiago, Chile. Code, music, and video games.
 [mariam.sh](https://mariam.sh) · [Discogs](https://www.discogs.com/user/mmmariam)
 
 <!-- metrics:start -->
+![GitHub activity and languages](github-metrics.svg)
 <!-- metrics:end -->
 
 #### on rotation 💿
