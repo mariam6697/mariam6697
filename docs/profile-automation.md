@@ -1,6 +1,6 @@
 # Profile automation
 
-The English introduction covers code, music, and games. Metrics displays activity and up to six languages from owned repositories, excluding forks. Public metrics are not a complete representation of work in private repositories.
+The English introduction covers code, music, and games. Metrics displays activity and up to six languages from owned repositories, excluding forks and the imported `cobblemon-26.3` port. GitHub marks that port as a standalone repository, so excluding forks alone does not remove its inherited Kotlin code. Language percentages measure repository contents, not personally authored code or time spent programming. Public metrics are not a complete representation of work in private repositories.
 
 ## Setup
 
