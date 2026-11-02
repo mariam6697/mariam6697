@@ -1,11 +1,16 @@
-### Hey buddy 🌙
+### mariam 🌙
 
-I'm Mariam V. Maldonado, a 25 years old chilean Software Engineer. I'm a technology lover, videogames enthusiast and Kim Lip biggest fan 🦉
+Software engineer in Santiago, Chile. Code, music, and video games.
 
-* 🔭 I currently work in software development for a national bank
-* 🌱 I'm trying to learn Go and improve in JS/TS in my free time
-* 💻 I usually code with:
-    * Node.js (Express) ⏩
-    * Angular and Vue.js 🎑
-    * Java ☕
- 
+[mariam.sh](https://mariam.sh) · [Discogs](https://www.discogs.com/user/mmmariam)
+
+<!-- metrics:start -->
+<!-- metrics:end -->
+
+#### on rotation 💿
+
+One daily pick from my record collection. Same record all day, a new draw tomorrow.
+
+<!-- release:start -->
+[Browse my collection](https://www.discogs.com/user/mmmariam/collection) while the next pick loads.
+<!-- release:end -->
