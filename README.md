@@ -8,8 +8,6 @@ Software engineer in Santiago, Chile. Code, music, and video games.
 ![GitHub activity and languages](github-metrics.svg)
 <!-- metrics:end -->
 
-<sub>Public repositories · excludes the Cobblemon port.</sub>
-
 #### on rotation 💿
 
 One daily pick from my record collection. Same pick all day, a fresh draw tomorrow.
