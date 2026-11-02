@@ -10,9 +10,13 @@ After merging, run **Refresh profile** from Actions. It also runs daily at 04:17
 
 ## Daily music
 
-The updater consumes `https://mariam.sh/api/discogs`, sharing the site's release selection instead of implementing a second random draw. The site hashes the date in `America/Santiago`; selection assumes an unchanged collection/order throughout the day. Repeated successful updates of the same payload produce identical text.
+The updater queries the current public Discogs collection for `mmmariam` on each new date in `America/Santiago`. It reads the current collection size and fetches the selected page with an explicit added-date order, then saves one release in `daily-release.json`. No Discogs token or static copy of the collection is required.
 
-Only artist, title, date, and a validated Discogs release link are published. Text is HTML-escaped. Cover artwork and private Discogs credentials are not copied. Upstream failure preserves the previous pick and its date. Before the first successful fetch, the README links to the collection.
+The first successful pick is frozen for the day. Same-day reruns reuse the saved JSON without querying Discogs, even when records are added or removed. The next day's job queries the collection again, so those changes become eligible then. A release can repeat on consecutive days; a new daily draw does not guarantee a different result.
+
+The website's `/api/discogs` endpoint is being updated to read this same JSON from the profile repository's `main` branch. Merge the profile PR and verify the published snapshot before deploying the site consumer. Failed upstream fetches leave the previous JSON and README untouched; their original date remains visible. On the first run there is no previous selection, so a collection link remains until generation succeeds.
+
+The public JSON contains only the chosen release, date, and collection size, including a Discogs artwork URL for the existing site cover proxy. The profile displays artist/title/date and a validated release link, without artwork. API text is HTML-escaped in the README. No entire collection or private credentials are published. Requests that race with collection edits can fail; a later retry can succeed without replacing a successful same-day pick.
 
 ## Validation and references
 

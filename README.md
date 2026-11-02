@@ -10,8 +10,10 @@ Software engineer in Santiago, Chile. Code, music, and video games.
 
 #### on rotation 💿
 
-One daily pick from my record collection. Same record all day, a new draw tomorrow.
+One daily pick from my record collection. Same pick all day, a fresh draw tomorrow.
 
 <!-- release:start -->
-[Browse my collection](https://www.discogs.com/user/mmmariam/collection) while the next pick loads.
+<a href="https://www.discogs.com/release/38420610">Olivia Rodrigo — You Seem Pretty Sad For A Girl So In Love</a>
+
+<sub>Picked 2026-11-02 · America/Santiago</sub>
 <!-- release:end -->

@@ -1,13 +1,19 @@
 """Refresh generated sections while preserving the last successful daily pick."""
+from datetime import datetime
+from zoneinfo import ZoneInfo
 import html
 import json
 from pathlib import Path
 import re
 from urllib.error import URLError
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
+from daily_release import daily_release
 
 ROOT = Path(__file__).resolve().parents[1]
-MUSIC_API = "https://mariam.sh/api/discogs"
+def fetch_json(url):
+    request = Request(url, headers={"User-Agent": "mariam-profile/1.0 (+https://mariam.sh)"})
+    with urlopen(request, timeout=20) as response:
+        return json.load(response)
 
 
 def replace_section(text, name, content):
@@ -44,12 +50,17 @@ def update_readme(text, payload=None, metrics_available=False):
 def main():
     readme = ROOT / "README.md"
     text = readme.read_text(encoding="utf-8")
+    snapshot = ROOT / "daily-release.json"
     payload = None
     try:
-        with urlopen(MUSIC_API, timeout=20) as response:
-            payload = json.load(response)
+        previous = json.loads(snapshot.read_text(encoding="utf-8")) if snapshot.exists() else None
+        today = datetime.now(ZoneInfo("America/Santiago")).date().isoformat()
+        payload = daily_release(previous, today, fetch_json)
         release_markup(payload)
-    except (URLError, TimeoutError, ValueError, KeyError, TypeError):
+        serialized = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
+        if not snapshot.exists() or snapshot.read_text(encoding="utf-8") != serialized:
+            snapshot.write_text(serialized, encoding="utf-8")
+    except (URLError, TimeoutError, ValueError, KeyError, TypeError, IndexError):
         print("Music unavailable; keeping the previous daily pick.")
         payload = None
     updated = update_readme(text, payload, (ROOT / "github-metrics.svg").is_file())
