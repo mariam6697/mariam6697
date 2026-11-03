@@ -13,7 +13,7 @@ Software engineer in Santiago, Chile. Code, music, and video games.
 One daily pick from my record collection. Same pick all day, a fresh draw tomorrow.
 
 <!-- release:start -->
-<a href="https://www.discogs.com/release/38420610">Olivia Rodrigo — You Seem Pretty Sad For A Girl So In Love</a>
+<a href="https://www.discogs.com/release/14035434">Taylor Swift — Lover</a>
 
-<sub>Picked 2026-11-02 · America/Santiago</sub>
+<sub>Picked 2026-11-03 · America/Santiago</sub>
 <!-- release:end -->

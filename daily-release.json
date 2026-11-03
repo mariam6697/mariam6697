@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "collection_size": 76,
   "release": {
-    "title": "You Seem Pretty Sad For A Girl So In Love",
-    "artist": "Olivia Rodrigo",
-    "year": 2026,
-    "image": "https://i.discogs.com/f4_48530F2u1IWbVIkWj4knWNzbxfaPsCwdQg1tSs1w/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDIw/NjEwLTE3ODkzMjM4/ODMtNTE1MS5qcGVn.jpeg",
-    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2Ff4_48530F2u1IWbVIkWj4knWNzbxfaPsCwdQg1tSs1w%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A538%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTM4NDIw%2FNjEwLTE3ODkzMjM4%2FODMtNTE1MS5qcGVn.jpeg",
-    "url": "https://www.discogs.com/release/38420610"
+    "title": "Lover",
+    "artist": "Taylor Swift",
+    "year": 2019,
+    "image": "https://i.discogs.com/HnFfqsOrCDytPfnEUAvm6rXYc9BZ29G0czrwFAhXRlg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM1/NDM0LTE1NzA4NzIy/NjEtNjE5NS5qcGVn.jpeg",
+    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FHnFfqsOrCDytPfnEUAvm6rXYc9BZ29G0czrwFAhXRlg%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A595%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTE0MDM1%2FNDM0LTE1NzA4NzIy%2FNjEtNjE5NS5qcGVn.jpeg",
+    "url": "https://www.discogs.com/release/14035434"
   }
 }
