@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "collection_size": 76,
   "release": {
-    "title": "Lover",
-    "artist": "Taylor Swift",
-    "year": 2019,
-    "image": "https://i.discogs.com/HnFfqsOrCDytPfnEUAvm6rXYc9BZ29G0czrwFAhXRlg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM1/NDM0LTE1NzA4NzIy/NjEtNjE5NS5qcGVn.jpeg",
-    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FHnFfqsOrCDytPfnEUAvm6rXYc9BZ29G0czrwFAhXRlg%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A595%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTE0MDM1%2FNDM0LTE1NzA4NzIy%2FNjEtNjE5NS5qcGVn.jpeg",
-    "url": "https://www.discogs.com/release/14035434"
+    "title": "Substance",
+    "artist": "New Order",
+    "year": 2023,
+    "image": "https://i.discogs.com/0gNkEJdp1OBZ4eent17FLJNIkOmDt4Tt1pDjhtLC-Rs/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODk1/MTMxLTE3MDA0NTE5/NzMtOTc5MS5qcGVn.jpeg",
+    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2F0gNkEJdp1OBZ4eent17FLJNIkOmDt4Tt1pDjhtLC-Rs%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A546%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTI4ODk1%2FMTMxLTE3MDA0NTE5%2FNzMtOTc5MS5qcGVn.jpeg",
+    "url": "https://www.discogs.com/release/28895131"
   }
 }

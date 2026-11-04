@@ -13,7 +13,7 @@ Software engineer in Santiago, Chile. Code, music, and video games.
 One daily pick from my record collection. Same pick all day, a fresh draw tomorrow.
 
 <!-- release:start -->
-<a href="https://www.discogs.com/release/14035434">Taylor Swift — Lover</a>
+<a href="https://www.discogs.com/release/28895131">New Order — Substance</a>
 
-<sub>Picked 2026-11-03 · America/Santiago</sub>
+<sub>Picked 2026-11-04 · America/Santiago</sub>
 <!-- release:end -->
