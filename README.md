@@ -13,7 +13,7 @@ Software engineer in Santiago, Chile. Code, music, and video games.
 One daily pick from my record collection. Same pick all day, a fresh draw tomorrow.
 
 <!-- release:start -->
-<a href="https://www.discogs.com/release/36616303">Mitski — Nothing’s About To Happen To Me</a>
+<a href="https://www.discogs.com/release/10380108">Slowkiss — The Cliff</a>
 
-<sub>Picked 2026-11-05 · America/Santiago</sub>
+<sub>Picked 2026-11-06 · America/Santiago</sub>
 <!-- release:end -->
