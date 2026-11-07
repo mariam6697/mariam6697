@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "collection_size": 76,
   "release": {
-    "title": "The Cliff",
+    "title": "Patio 29",
     "artist": "Slowkiss",
-    "year": 2015,
-    "image": "https://i.discogs.com/4QnyYs8w3T04cHqhx6B5O2cXIBKMngx_7qj8S4jX9vs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgw/MTA4LTE1NTIwMTA2/MjAtNjUwNy5qcGVn.jpeg",
-    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2F4QnyYs8w3T04cHqhx6B5O2cXIBKMngx_7qj8S4jX9vs%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A600%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTEwMzgw%2FMTA4LTE1NTIwMTA2%2FMjAtNjUwNy5qcGVn.jpeg",
-    "url": "https://www.discogs.com/release/10380108"
+    "year": 2020,
+    "image": "https://i.discogs.com/W6MzqY3FgSYnAd0ucYBRv1jOmXl9sNi6H7eV5Seo860/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODcw/MTk3LTE2MTAzMTE1/MjAtMjc5Ny5qcGVn.jpeg",
+    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FW6MzqY3FgSYnAd0ucYBRv1jOmXl9sNi6H7eV5Seo860%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A600%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTE2ODcw%2FMTk3LTE2MTAzMTE1%2FMjAtMjc5Ny5qcGVn.jpeg",
+    "url": "https://www.discogs.com/release/16870197"
   }
 }
