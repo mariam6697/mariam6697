@@ -13,7 +13,7 @@ Software engineer in Santiago, Chile. Code, music, and video games.
 One daily pick from my record collection. Same pick all day, a fresh draw tomorrow.
 
 <!-- release:start -->
-<a href="https://www.discogs.com/release/16870197">Slowkiss — Patio 29</a>
+<a href="https://www.discogs.com/release/35218072">aespa — Rich Man</a>
 
-<sub>Picked 2026-11-07 · America/Santiago</sub>
+<sub>Picked 2026-11-08 · America/Santiago</sub>
 <!-- release:end -->
