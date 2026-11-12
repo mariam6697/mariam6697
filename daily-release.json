@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "collection_size": 76,
   "release": {
-    "title": "Mercurial World",
-    "artist": "Magdalena Bay",
-    "year": 2024,
-    "image": "https://i.discogs.com/GHuB_uvSpmeAwkt81jUExChlbqmrot3r5A2YMwGtbZg/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzk4/NTI0LTE3MzI4NDUx/ODYtNjQ0Mi5qcGVn.jpeg",
-    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FGHuB_uvSpmeAwkt81jUExChlbqmrot3r5A2YMwGtbZg%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A565%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTMyMzk4%2FNTI0LTE3MzI4NDUx%2FODYtNjQ0Mi5qcGVn.jpeg",
-    "url": "https://www.discogs.com/release/32398524"
+    "title": "Total Life Forever",
+    "artist": "Foals",
+    "year": 2025,
+    "image": "https://i.discogs.com/4jRsH2ZbKswN_FdR-IimcAytdpo2Rh0p154HITX2GDo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjcx/NjIwLTE3NTI5MTc1/ODQtNDQyNi5qcGVn.jpeg",
+    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2F4jRsH2ZbKswN_FdR-IimcAytdpo2Rh0p154HITX2GDo%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A600%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTM0Mjcx%2FNjIwLTE3NTI5MTc1%2FODQtNDQyNi5qcGVn.jpeg",
+    "url": "https://www.discogs.com/release/34271620"
   }
 }

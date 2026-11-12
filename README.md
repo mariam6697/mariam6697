@@ -13,7 +13,7 @@ Software engineer in Santiago, Chile. Code, music, and video games.
 One daily pick from my record collection. Same pick all day, a fresh draw tomorrow.
 
 <!-- release:start -->
-<a href="https://www.discogs.com/release/32398524">Magdalena Bay — Mercurial World</a>
+<a href="https://www.discogs.com/release/34271620">Foals — Total Life Forever</a>
 
-<sub>Picked 2026-11-11 · America/Santiago</sub>
+<sub>Picked 2026-11-12 · America/Santiago</sub>
 <!-- release:end -->
