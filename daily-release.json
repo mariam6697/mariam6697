@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "collection_size": 76,
   "release": {
     "title": "K",
     "artist": "Heejin",
     "year": 2023,
-    "image": "https://i.discogs.com/SapM5ROUFvKPL6lKEMEGVRZuwTdGlrAeZVAIUIYZXd4/rs:fit/g:sm/q:90/h:600/w:428/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTI5/NzE4LTE3MzMwMjE5/ODYtODE3OC5qcGVn.jpeg",
-    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FSapM5ROUFvKPL6lKEMEGVRZuwTdGlrAeZVAIUIYZXd4%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A600%2Fw%3A428%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTI4OTI5%2FNzE4LTE3MzMwMjE5%2FODYtODE3OC5qcGVn.jpeg",
-    "url": "https://www.discogs.com/release/28929718"
+    "image": "https://i.discogs.com/RTwsp17DJeBImOwAmPcIGbi2ZU9lQdchaOl6gbnhqx4/rs:fit/g:sm/q:90/h:433/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzE5/NjQzLTE3MDM2ODk0/OTktMzMwOC5wbmc.jpeg",
+    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FRTwsp17DJeBImOwAmPcIGbi2ZU9lQdchaOl6gbnhqx4%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A433%2Fw%3A599%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTI5MzE5%2FNjQzLTE3MDM2ODk0%2FOTktMzMwOC5wbmc.jpeg",
+    "url": "https://www.discogs.com/release/29319643"
   }
 }
