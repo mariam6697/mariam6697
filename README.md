@@ -13,7 +13,7 @@ Software engineer in Santiago, Chile. Code, music, and video games.
 One daily pick from my record collection. Same pick all day, a fresh draw tomorrow.
 
 <!-- release:start -->
-<a href="https://www.discogs.com/release/20777266">aespa — Savage</a>
+<a href="https://www.discogs.com/release/20664883">aespa — Savage</a>
 
-<sub>Picked 2026-11-16 · America/Santiago</sub>
+<sub>Picked 2026-11-17 · America/Santiago</sub>
 <!-- release:end -->

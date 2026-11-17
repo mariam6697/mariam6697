@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "collection_size": 76,
   "release": {
     "title": "Savage",
     "artist": "aespa",
     "year": 2021,
-    "image": "https://i.discogs.com/GXBmIcI47QKesf8o_HGOsW16jQq7o7VMJUo8QLiutYA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzc3/MjY2LTE3NDM0NzQ5/ODktMzM5MC5qcGVn.jpeg",
-    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FGXBmIcI47QKesf8o_HGOsW16jQq7o7VMJUo8QLiutYA%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A600%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTIwNzc3%2FMjY2LTE3NDM0NzQ5%2FODktMzM5MC5qcGVn.jpeg",
-    "url": "https://www.discogs.com/release/20777266"
+    "image": "https://i.discogs.com/48IZogzaKUnpb3gNq94NK9qe_U_FiKU9W-PraKl9bF0/rs:fit/g:sm/q:90/h:600/w:446/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjY0/ODgzLTE2ODI3NDc5/MDMtMTE4NC5qcGVn.jpeg",
+    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2F48IZogzaKUnpb3gNq94NK9qe_U_FiKU9W-PraKl9bF0%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A600%2Fw%3A446%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTIwNjY0%2FODgzLTE2ODI3NDc5%2FMDMtMTE4NC5qcGVn.jpeg",
+    "url": "https://www.discogs.com/release/20664883"
   }
 }
