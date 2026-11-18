@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "collection_size": 76,
   "release": {
-    "title": "Savage",
-    "artist": "aespa",
-    "year": 2021,
-    "image": "https://i.discogs.com/48IZogzaKUnpb3gNq94NK9qe_U_FiKU9W-PraKl9bF0/rs:fit/g:sm/q:90/h:600/w:446/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjY0/ODgzLTE2ODI3NDc5/MDMtMTE4NC5qcGVn.jpeg",
-    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2F48IZogzaKUnpb3gNq94NK9qe_U_FiKU9W-PraKl9bF0%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A600%2Fw%3A446%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTIwNjY0%2FODgzLTE2ODI3NDc5%2FMDMtMTE4NC5qcGVn.jpeg",
-    "url": "https://www.discogs.com/release/20664883"
+    "title": "<Dall>",
+    "artist": "ARTMS (2)",
+    "year": 2024,
+    "image": "https://i.discogs.com/OMeh-hk-LQ032J1HR0ev7WJfVLVs6ymDSScmys-Lx40/rs:fit/g:sm/q:90/h:600/w:433/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY4/NTIxLTE3MTg2MzMx/NzMtNTA4Mi5qcGVn.jpeg",
+    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FOMeh-hk-LQ032J1HR0ev7WJfVLVs6ymDSScmys-Lx40%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A600%2Fw%3A433%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTMwODY4%2FNTIxLTE3MTg2MzMx%2FNzMtNTA4Mi5qcGVn.jpeg",
+    "url": "https://www.discogs.com/release/30868521"
   }
 }
