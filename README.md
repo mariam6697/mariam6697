@@ -13,7 +13,7 @@ Software engineer in Santiago, Chile. Code, music, and video games.
 One daily pick from my record collection. Same pick all day, a fresh draw tomorrow.
 
 <!-- release:start -->
-<a href="https://www.discogs.com/release/30837681">ARTMS (2) — &lt;Dall&gt;</a>
+<a href="https://www.discogs.com/release/34823645">Billie Eilish — Hit Me Hard And Soft</a>
 
-<sub>Picked 2026-11-19 · America/Santiago</sub>
+<sub>Picked 2026-11-20 · America/Santiago</sub>
 <!-- release:end -->
