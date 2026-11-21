@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "collection_size": 76,
   "release": {
-    "title": "Hit Me Hard And Soft",
-    "artist": "Billie Eilish",
-    "year": 2025,
-    "image": "https://i.discogs.com/OgcbSBcqqOj_5Yh3pHUYGuo8yjBW-GmDsHhlW2Agmoo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODIz/NjQ1LTE3NTU0NzI1/NjMtMTc2OS5qcGVn.jpeg",
-    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FOgcbSBcqqOj_5Yh3pHUYGuo8yjBW-GmDsHhlW2Agmoo%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A600%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTM0ODIz%2FNjQ1LTE3NTU0NzI1%2FNjMtMTc2OS5qcGVn.jpeg",
-    "url": "https://www.discogs.com/release/34823645"
+    "title": "Rubber Soul",
+    "artist": "The Beatles",
+    "year": 2012,
+    "image": "https://i.discogs.com/wNlRCncnn9hOTwsQTiaw_rvqR-8A9fBQrWReMiHd84s/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc1/MTgtMTM2OTgwMzkz/My01NTI0LmpwZWc.jpeg",
+    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FwNlRCncnn9hOTwsQTiaw_rvqR-8A9fBQrWReMiHd84s%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A594%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTQwMzc1%2FMTgtMTM2OTgwMzkz%2FMy01NTI0LmpwZWc.jpeg",
+    "url": "https://www.discogs.com/release/4037518"
   }
 }
