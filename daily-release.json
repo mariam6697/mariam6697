@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "collection_size": 76,
   "release": {
-    "title": "Whenever You Need Somebody",
+    "title": "Hold Me In Your Arms",
     "artist": "Rick Astley",
-    "year": 1987,
-    "image": "https://i.discogs.com/j72FQ8F2kW-CK24W_7hqFkFQ1gssSYWztmEglKaAJV0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE2/OTEyLTE1NzUyMzAz/ODUtMTM1Ni5qcGVn.jpeg",
-    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2Fj72FQ8F2kW-CK24W_7hqFkFQ1gssSYWztmEglKaAJV0%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A592%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTE0NDE2%2FOTEyLTE1NzUyMzAz%2FODUtMTM1Ni5qcGVn.jpeg",
-    "url": "https://www.discogs.com/release/14416912"
+    "year": 1988,
+    "image": "https://i.discogs.com/EPTioSxId2BOOmabfSt1Gu3HBCu96ZRQqpKBYYwZt8w/rs:fit/g:sm/q:90/h:577/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk0/NjUtMTM0ODkzNjQ4/OS05MTI5LmpwZWc.jpeg",
+    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FEPTioSxId2BOOmabfSt1Gu3HBCu96ZRQqpKBYYwZt8w%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A577%2Fw%3A582%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTE1Nzk0%2FNjUtMTM0ODkzNjQ4%2FOS05MTI5LmpwZWc.jpeg",
+    "url": "https://www.discogs.com/release/1579465"
   }
 }
