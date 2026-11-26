@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "collection_size": 76,
   "release": {
-    "title": "Hold Me In Your Arms",
-    "artist": "Rick Astley",
-    "year": 1988,
-    "image": "https://i.discogs.com/EPTioSxId2BOOmabfSt1Gu3HBCu96ZRQqpKBYYwZt8w/rs:fit/g:sm/q:90/h:577/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk0/NjUtMTM0ODkzNjQ4/OS05MTI5LmpwZWc.jpeg",
-    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FEPTioSxId2BOOmabfSt1Gu3HBCu96ZRQqpKBYYwZt8w%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A577%2Fw%3A582%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTE1Nzk0%2FNjUtMTM0ODkzNjQ4%2FOS05MTI5LmpwZWc.jpeg",
-    "url": "https://www.discogs.com/release/1579465"
+    "title": "The Subway / The Giver",
+    "artist": "Chappell Roan",
+    "year": 2025,
+    "image": "https://i.discogs.com/R8I8mktyhDldeL9AeTQymCIYhNpAdWQ60MQY13R9CKk/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzg3/NDQ4LTE3NjQzNDU3/MDQtMjI5OS5qcGVn.jpeg",
+    "cover": "/api/discogs/cover?url=https%3A%2F%2Fi.discogs.com%2FR8I8mktyhDldeL9AeTQymCIYhNpAdWQ60MQY13R9CKk%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A600%2Fw%3A592%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTM1Nzg3%2FNDQ4LTE3NjQzNDU3%2FMDQtMjI5OS5qcGVn.jpeg",
+    "url": "https://www.discogs.com/release/35787448"
   }
 }

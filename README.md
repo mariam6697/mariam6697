@@ -13,7 +13,7 @@ Software engineer in Santiago, Chile. Code, music, and video games.
 One daily pick from my record collection. Same pick all day, a fresh draw tomorrow.
 
 <!-- release:start -->
-<a href="https://www.discogs.com/release/1579465">Rick Astley — Hold Me In Your Arms</a>
+<a href="https://www.discogs.com/release/35787448">Chappell Roan — The Subway / The Giver</a>
 
-<sub>Picked 2026-11-25 · America/Santiago</sub>
+<sub>Picked 2026-11-26 · America/Santiago</sub>
 <!-- release:end -->
